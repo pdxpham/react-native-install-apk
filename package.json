@@ -2,7 +2,7 @@
   "name": "react-native-install-apk",
   "version": "1.0.0",
   "description": "install .apk file ",
-  "main": "index.js",
+  "main": "index.android.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
